@@ -745,7 +745,7 @@ a{
 /*why to choose us sectionnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn*/
 
 .why-contain{
-    width: 80%;
+    width: 75%;
     margin: auto;
     display: flex;
     flex-direction: column;
@@ -807,18 +807,18 @@ video{
         flex-direction: column;
         align-items: center;
         row-gap: 40px;
-        width: 75%;
+        
         margin: auto;
     }
     video{
-        width: 90%;
+        width: 100%;
         margin: auto;
     }
    
    
  
     .why-choose .text2{
-        width: 90%;
+        width: 100%;
         row-gap: 70px;
     }
   
@@ -832,17 +832,17 @@ video{
         flex-direction: column;
         align-items: center;
         row-gap: 40px;
-        width: 90%;
+        
         margin: auto;
     }
     video{
-        width: 90%;
+        width: 100%;
         margin: auto;
     }
    
  
     .why-choose .text2{
-        width: 90%;
+        width: 100%;
         row-gap: 40px;
     }
   
@@ -857,18 +857,18 @@ video{
         flex-direction: column;
         align-items: center;
         row-gap: 40px;
-        width: 90%;
+        
         margin: auto;
     }
     video{
-        width: 90%;
+        width: 100%;
         margin: auto;
     }
    
    
  
     .why-choose .text2{
-        width: 90%;
+        width: 100%;
         row-gap: 40px;
     }
   
@@ -885,17 +885,17 @@ video{
         flex-direction: column;
         align-items: center;
         row-gap: 40px;
-        width: 90%;
+       
         margin: auto;
     }
     video{
-        width: 90%;
+        width: 100%;
         margin: auto;
     }
    
  
     .why-choose .text2{
-        width: 90%;
+        width: 100%;
         row-gap: 40px;
     }
   
@@ -1133,7 +1133,7 @@ form button{
     width: 200px;
     height: 50px;
     border-radius: 5px;
-    background-color: #23A6F0;
+    background-color: blue;
     border: none;
     display: flex;
     justify-content: space-around;
@@ -1260,7 +1260,7 @@ label{
     width: 150px;
     height: 50px;
     border-radius: 5px;
-    background-color: #23A6F0;
+    background-color: blue;
     border: none;
     display: flex;
     justify-content: center;
@@ -1508,7 +1508,7 @@ footer{
     display: flex;
     column-gap: 10px;
     font-size: 16px;
-    color: #23A6F0;
+    color: blue;
 }
 .copy-rights-container p{
     display: flex;
