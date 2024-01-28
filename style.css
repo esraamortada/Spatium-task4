@@ -630,7 +630,7 @@ a{
 }
 .card img{
     width: 100%;
-    height: 70%;
+    /* height: 70%; */
     border-radius: 10px;
  
 }
@@ -649,7 +649,9 @@ a{
     display: flex;
     column-gap: 10px;
     color: blue;
-    margin-left: 16px;
+    /* margin-left: 16px; */
+    padding: 0px 10px 16px 30px;
+    
 
 }
 .card .link a{
@@ -669,6 +671,7 @@ a{
     .card{
         width: 40%;
     }
+  
    
   
 }
@@ -703,7 +706,7 @@ a{
     .card{
         width: 90%;
     }
-    
+ 
 
     
  
@@ -720,7 +723,9 @@ a{
   
     .card{
         width: 90%;
+        
     }
+    
  
 
 
